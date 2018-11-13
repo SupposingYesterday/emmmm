@@ -1,0 +1,15 @@
+
+
+	1、进入git 文件
+
+	2、init初始化
+
+	3、git comfig --global user.name ""	配置用户名
+
+	4、git comfig --global user.emaill ""	配置邮箱
+
+	5、将文件add到队列
+
+	6、commit 提交 -m添加描述
+	
+	7、esc + w+:退出 

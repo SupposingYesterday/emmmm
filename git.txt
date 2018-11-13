@@ -1,0 +1,24 @@
+GIT
+
+	分布式版本控制
+	多个开发人员同步协调
+	有效监听用户修改
+	本地及远程操作
+
+
+
+基本命令
+
+	git init		//初始化本地仓库
+
+	git add<file>	//添加文件
+
+	git status		//查看状态
+
+	git commit	//提交
+
+	git push		//推入到仓库
+
+	git pull		//从远程仓库拉去数据
+
+	git clone		//从远程仓库拷贝数据

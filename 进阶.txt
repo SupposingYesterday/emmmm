@@ -1,0 +1,19 @@
+进阶
+
+	commit -m	//"文件描述"
+
+	git rm --cahed 文件名	//删除文件
+
+	:+w	//退出
+
+	touch .gitignore	//创建忽略文件,把忽略文件路径写入到.gitignore里
+
+	git branch	//创建分支
+
+	git checkout  分支名	//进入分支
+
+	git checkout 主线名		//进入主线
+
+	git mergin  分支名		//(在主线中)合并分支
+
+	git clone	   文件路径	//克隆别人的代码
